@@ -79,7 +79,7 @@ function createallcharts(userdata){
         type: "indicator",
         mode: "gauge+number",
         value: wfreq,
-        title: { text: "Belly Button Washing Frequency", font: { size: 24 } },
+        title: { text: "Belly Button Washing Frequency (scrubs per week)", font: { size: 24 } },
         gauge: {
           axis: { range: [null, 9], tickwidth: 1, tickcolor: "darkblue", dtick:1 },
           bar: { color: "darkblue" },
