@@ -12,7 +12,7 @@ This assignment for the interactive visualizations module tasks us with calling 
 ## Installiing
 JS Code is under file "Christian-Smith-code".
 ## Usage
-To operate, either launch the HTML code directly from the file, or access the website from the Github Pages link."
+To operate, either launch the HTML code directly from the file, or access the website from https://christian-a-smith.github.io/belly-button-challenge/Christian-Smith-code/index.html ."
 ## Contributing
 Main author: Christian Smith
 Also received support and suggestions from AskBCS user dsaw1121 and tutor Sharon.
